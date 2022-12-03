@@ -1,0 +1,33 @@
+.PostTwo{
+    
+    padding-bottom: 30px;
+    
+    border-radius: 10px;
+    float: left;
+    width: 75%;
+    justify-content: left;
+    
+}
+.PostTwoTitle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.PostTwoImg{
+  
+    margin-bottom: 10px;
+    width: 100%;
+    
+}
+.PostTwoBody{
+    
+    margin-bottom: 20px;
+    
+}
+.PostTwoDate{
+    margin-bottom: 10px;
+    font-size: large;
+}
+.PostTwoAuthor{
+    margin-bottom: 10px;
+    font-size: large;
+}

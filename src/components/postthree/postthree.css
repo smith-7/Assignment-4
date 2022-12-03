@@ -1,0 +1,33 @@
+.PostThree{
+    
+    padding-bottom: 30px;
+    
+    border-radius: 10px;
+    float: left;
+    width: 75%;
+    justify-content: left;
+    
+}
+.PostThreeTitle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.PostThreeImg{
+    
+    margin-bottom: 10px;
+    width: 100%;
+    
+}
+.PostThreeBody{
+    line-height: 2em;
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.PostThreeDate{
+    margin-bottom: 10px;
+    font-size: large;
+}
+.PostThreeAuthor{
+    margin-bottom: 10px;
+    font-size: large;
+}

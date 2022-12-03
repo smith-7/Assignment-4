@@ -1,0 +1,63 @@
+.post1{
+    width: 70%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+
+}
+.PostOneSummaryInfo{
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.PostOneSummaryImg{
+    margin-bottom: 10px;
+
+}
+.PostOneTitle{
+    color: rgb(255, 0, 85);
+    margin-bottom: 10px;
+}
+.post2{
+    width: 75%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+
+}
+.PostTwoSummaryInfo{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.PostTwoSummaryImg{
+    margin-bottom: 10px;
+
+}
+.PostTwoTitle{
+    margin-bottom: 10px;
+}
+
+.post3{
+    width: 75%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+
+}
+.PostThreeSummaryInfo{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.PostThreeSummaryImg{
+    margin-bottom: 10px;
+
+}
+.PostThreeTitle{
+    margin-bottom: 10px;
+}
+

@@ -1,0 +1,33 @@
+.PostOne{
+    padding-bottom: 30px;
+    
+    border-radius: 10px;
+    float: left;
+    width: 75%;
+    justify-content: left;
+    
+}
+.PostOneTitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.PostOneImg{
+    
+    margin-bottom: 10px;
+    width: 100%;
+    
+}
+.PostOneBody{
+    line-height: 2em;
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.PostOneDate{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+}
+.PostOneAuthor{
+    margin-bottom: 10px;
+    font-size: large;
+}

@@ -1,0 +1,31 @@
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+    border-radius: 10px;
+    float: right;
+    width: 30%;
+    background-color: yellowgreen; 
+    
+}
+
+
+.weatherApi{
+   
+    
+    color: red;
+    border: 5px dotted
+}
+.nav-heading1{
+    color: red;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-style: bold;
+}
+.nav-heading2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: red;
+    font-style: bold;
+}
