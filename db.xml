@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<blogs>
+    <post>
+        <div class="PostOne">
+      <div class="PostOneTitle">
+          <h1>Aircrafts</h1>
+      </div>
+      <div class="PostOneImg">
+        <img src="https://nodeassets.nbcnews.com/cdnassets/projects/2017/08/airplane-mode/social-airplane-mode-takeoff.jpg" alt="" />
+      </div>
+      <div class="PosOnetBody">
+      airplane, also called aeroplane or plane, any of a class of fixed-wing aircraft that is heavier than air, propelled by a screw propeller or a high-velocity jet, and supported by the dynamic reaction of the air against its wings. For an account of the development of the airplane and the advent of civil aviation see history of flight.
+
+The essential components of an airplane are a wing system to sustain it in flight, tail surfaces to stabilize the wings, movable surfaces to control the attitude of the plane in flight, and a power plant to provide the thrust necessary to push the vehicle through the air. Provision must be made to support the plane when it is at rest on the ground and during takeoff and landing. Most planes feature an enclosed body (fuselage) to house the crew, passengers, and cargo; the cockpit is the area from which the pilot operates the controls and instruments to fly the plane.
+    </div>
+      <div class="PostOneDate"><i>Out on :</i><b>02 December 2022</b></div>
+    <div class="PostOneAuthor"><i>Written By :</i><b>Smith Dsouza</b></div>
+  </div>
+    </post>
+    <post>
+        <div class="PostTwo">
+        <div class="PostTwoTitle">
+            <h1>AirBus A380</h1>
+        </div>
+      <div class="SPostTwoImg">
+        <img class="PostTwoImg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg/1024px-A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg" alt="" />
+      </div>
+      <div class="PostTwoBody">
+      The Airbus A380 is a large wide-body airliner that was developed and produced by Airbus. It is the world's largest passenger airliner and only full-length double-deck jet airliner. Airbus studies started in 1988, and the project was announced in 1990 to challenge the dominance of the Boeing 747 in the long-haul market. The then-designated A3XX project was presented in 1994; Airbus launched the €9.5 billion ($10.7 billion) A380 programme on 19 December 2000. The first prototype was unveiled in Toulouse on 18 January 2005, with its first flight on 27 April 2005. It then obtained its type certificate from the European Aviation Safety Agency (EASA) and the US Federal Aviation Administration (FAA) on 12 December 2006. Due to difficulties with the electrical wiring, the initial production was delayed by two years and the development costs almost doubled.
+
+It was first delivered to Singapore Airlines on 15 October 2007 and entered service on 25 October. Production peaked at 30 per year in 2012 and 2014. However, after the largest customer, Emirates, reduced its last order in February 2019, Airbus announced that A380 production would end in 2021. On 16 December 2021, Emirates received its 123rd A380, which was the 251st and last delivered by Airbus. The $25 billion investment was not recouped.
+      </div>
+      <div class="PostTwoDate">
+      <i>Published :</i><b>04 December</b>
+      </div>
+      <div class="PostTwoAuthor">
+        <i>Written By :</i><b> Smith Dsouza</b>
+      </div>
+    </div>
+    </post>
+    <post>
+        <div classname="PostThree">
+        <div className="PostThreeTitle">
+            <h1>Boeing 777</h1>
+        </div>
+      <div className="PostThreeImg">
+        <img className="PostThreeSummaryImg" src="https://www.bjtonline.com/sites/default/files/styles/bjt30_article_medium/public/bbj-777-9.jpg?itok=aIWFWkcU&timestamp=1660679307" alt="" />
+      </div>
+      <div className="=PostThreeBody">
+      The Boeing 777 is typically used on medium-haul and long-haul flights and can carry between 314–396 passengers, depending on the class-layout and the model variant. Overall, the Boeing 777 has five active variants that are used for commercial flights. The original Boeing 777 is named the Boeing 777-200.
+      It is the world's largest twinjet. The 777 was designed to bridge the gap between Boeing's other wide body airplanes, the twin-engined 767 and quad-engined 747, and to replace older DC-10s and L-1011 trijets
+      </div>
+      <div className="PostThreeDate">
+      <i>Out On :</i><b>04 December 2022</b>
+      </div>
+      <div className="PostThreeAuthor">
+      <i>Written by :</i>
+        <h3>Smith Dsouza</h3>
+      </div>
+    </div>
+    </post>
+</blogs>
